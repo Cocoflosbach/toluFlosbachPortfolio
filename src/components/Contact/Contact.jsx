@@ -30,7 +30,7 @@ const Contact = () => {
           <article className="contact__option">
             <MdEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>tolulopeflosbach@gmail.com</h5>
+            {/* <h5>tolulopeflosbach@gmail.com</h5> */}
             <a
               href="mailto:tolulopeflosbach@gmail.com"
               target="_blank"
