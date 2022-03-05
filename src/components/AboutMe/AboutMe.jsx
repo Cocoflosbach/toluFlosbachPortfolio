@@ -1,6 +1,6 @@
 import React from "react";
 import "./AboutMe.css";
-import ME from "../../assets/about.jpg";
+import ME from "../../assets/about.png";
 import { MdDeveloperMode } from "react-icons/md";
 import { MdOutlineDesignServices } from "react-icons/md";
 import { BsMegaphone } from "react-icons/bs";
