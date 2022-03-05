@@ -10,7 +10,8 @@ const Portfolio = () => {
     {
       id: 1,
       title: "MeetApp",
-      description: "",
+      description:
+        "Meet is a progressive web app built using react that enables it's users to view upcoming events for a specific city for professional, networking or job search purposes. The app is built using a serverless function hosted by cloud provider, AWS.",
       image: MEET,
       github: "https://github.com/Cocoflosbach/meet",
       demo: "https://cocoflosbach.github.io/meet/",
@@ -18,7 +19,8 @@ const Portfolio = () => {
     {
       id: 2,
       title: "MyFunFlix React (client)",
-      description: "",
+      description:
+        "Built Using React, this is the client-side for a movie directory application called myFunFlix based on its existing server-side code (REST API and database).",
       image: MYFUNFLIX,
       github: "https://github.com/Cocoflosbach/myFunFlix-client",
       demo: "https://myfunflix.netlify.app/",
@@ -26,7 +28,8 @@ const Portfolio = () => {
     {
       id: 3,
       title: "MyPokedex App",
-      description: "",
+      description:
+        "My Pokedex app is designed to catalogue and provide information regarding the various species of Pokémon.",
       image: POKEDEX,
       github: "https://github.com/Cocoflosbach/my-pokedex-app",
       demo: "https://cocoflosbach.github.io/my-pokedex-app/",
@@ -34,7 +37,8 @@ const Portfolio = () => {
     {
       id: 4,
       title: "chatMeApp",
-      description: "",
+      description:
+        "This App is a chat app built for mobile devices using React Native that provides its users with a customisable chat interface and options to share images and their locations with friends and family.",
       image: CHATAPP,
       github: "https://github.com/Cocoflosbach/chatApp",
       demo: "",
@@ -55,6 +59,7 @@ const Portfolio = () => {
               </div>
 
               <h3>{title}</h3>
+              <small>{description}</small>
               <div className="portfolio__item-cta">
                 <a
                   href={github}
