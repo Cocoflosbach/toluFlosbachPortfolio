@@ -1,7 +1,8 @@
 import React from "react";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaDribbble } from "react-icons/fa";
+import { BsMedium } from "react-icons/bs";
+import { FaTwitterSquare } from "react-icons/fa";
 
 const Socials = () => {
   return (
@@ -21,6 +22,22 @@ const Socials = () => {
       >
         {" "}
         <FaGithub />{" "}
+      </a>
+      <a
+        href="https://twitter.com/CocoFlosbach"
+        target="_blank"
+        rel="noreferrer"
+      >
+        {" "}
+        <FaTwitterSquare />{" "}
+      </a>
+      <a
+        href="https://medium.com/@cocoflosbach"
+        target="_blank"
+        rel="noreferrer"
+      >
+        {" "}
+        <BsMedium />{" "}
       </a>
     </div>
   );
