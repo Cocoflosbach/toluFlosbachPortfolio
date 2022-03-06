@@ -36,12 +36,21 @@ const AboutMe = () => {
             </article>
           </div>
           <p>
-            I am a Fullstack developer specialized in building, and sometimes
-            designing responsive Web and mobile applications. Welcome to my
-            corner!
+            Hello! My name is Tolulope Flosbach and I love to explore creative
+            tech solutions to everyday problems. My jouney into the tech world
+            has been 10 years in the making and it began with building a simple
+            blogspot site. Going into the source code to tweak simple UI
+            elements for the blog themes was my first experience with HTML and
+            CSS and I loved it to boots!
+          </p>
+          <p>
+            Now 10 years later, a Fullstack developer starting a CS masters
+            degree, I am focused on building responsive, accessible and ethical
+            applications that contribute to a company's growth strategy and to
+            improving the lives of users.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Contact Me
+            Send A Message
           </a>
         </div>
       </div>
