@@ -18,6 +18,7 @@ const Contact = () => {
       "gaB7U9dR2ebLf0mdi"
     );
     e.target.reset();
+    alert("Your message has been sent");
   };
 
   return (
