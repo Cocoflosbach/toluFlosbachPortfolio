@@ -1,0 +1,54 @@
+.footer__container {
+  height: 30vh;
+  padding-top: 7rem;
+  overflow: hidden;
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+/*================== SOCIALS STYLING ================= */
+.footer__socials {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.8rem;
+  position: absolute;
+  left: 0;
+  bottom: 7rem;
+  font-size: 1rem;
+  position: absolute;
+  left: calc(44%);
+}
+
+.footer__socials::after {
+  content: "";
+  width: 1px;
+  height: 2rem;
+  background: var(--color-primary);
+}
+
+.footer__container > small {
+  font-size: 0.5rem;
+}
+
+/*======================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
+
+@media screen and (max-width: 1024px) {
+  .footer__socials {
+    position: absolute;
+    font-size: 1.3rem;
+    bottom: 6.5rem;
+    left: calc(40%);
+  }
+}
+
+/*======================= MEDIA QUERIES (SMALL DEVICES) ================= */
+
+@media screen and (max-width: 600px) {
+  .footer__socials {
+    position: absolute;
+    font-size: 1.3rem;
+    bottom: 5rem;
+    left: calc(30%);
+  }
+}
