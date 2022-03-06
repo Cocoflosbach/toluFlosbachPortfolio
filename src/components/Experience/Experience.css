@@ -40,6 +40,13 @@
   color: var(--color-primary);
 }
 
+.experience__rating {
+  font-size: 0.6rem;
+}
+.experience__rating-item {
+  margin: 0.8px;
+}
+
 /*======================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
 
 @media screen and (max-width: 1024px) {
@@ -68,5 +75,8 @@
   .experience__container > div {
     width: 100%;
     padding: 2rem 1rem;
+  }
+  .experience__rating {
+    font-size: 0.5rem;
   }
 }
