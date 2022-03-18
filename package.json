@@ -2,7 +2,7 @@
   "name": "portfolio-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cocoflosbach.github.io/portfolio-3",
+  "homepage": "https://toluflosbach.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
