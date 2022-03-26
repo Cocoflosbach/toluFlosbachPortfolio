@@ -36,18 +36,19 @@ const AboutMe = () => {
             </article>
           </div>
           <p>
-            Hello! My name is Tolulope Flosbach and I love to explore creative
-            tech solutions to everyday problems. My jouney into the tech world
-            has been 10 years in the making and it began with building a simple
-            blogspot site. Going into the source code to tweak simple UI
-            elements for the blog themes was my first experience with HTML and
-            CSS and I loved it to boots!
+            Hello, My name is Tolu "Coco" Flosbach and I love to explore
+            creative tech solutions to everyday problems. My journey into the
+            tech world has been nine years in the making and it began with
+            building a simple Blogspot site. Going into the source code to tweak
+            simple UI elements for the blog themes was my first experience with
+            HTML and CSS and I loved it to boots!
           </p>
           <p>
-            Now 10 years later, a Fullstack developer starting a CS masters
-            degree, I am focused on building responsive, accessible and ethical
-            applications that contribute to a company's growth strategy and to
-            improving the lives of users.
+            Nine years later, I am a full-stack developer starting a master's
+            degree in computer science to improve my understanding of core CS
+            concepts. I am focused on building responsive, accessible, and
+            ethical applications that contribute to a company's growth strategy
+            and to improving the lives of users.
           </p>
           <a href="#contact" className="btn btn-primary">
             Send A Message
