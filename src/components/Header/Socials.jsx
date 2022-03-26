@@ -24,7 +24,7 @@ const Socials = () => {
         <FaGithub />{" "}
       </a>
       <a
-        href="https://twitter.com/CocoFlosbach"
+        href="https://twitter.com/ToluFlosbach"
         target="_blank"
         rel="noreferrer"
       >
