@@ -5,6 +5,7 @@ import { AiOutlineUser } from "react-icons/ai";
 import { BiBookAlt } from "react-icons/bi";
 import { BiBriefcase } from "react-icons/bi";
 import { BiMessageSquareDetail } from "react-icons/bi";
+import { BsChatRightQuote } from "react-icons/bs";
 
 import { useState } from "react";
 
@@ -43,6 +44,14 @@ const Nav = () => {
       >
         {" "}
         <BiBriefcase />{" "}
+      </a>
+      <a
+        href="#testimonials"
+        onClick={() => setActiveNav("#testimonials")}
+        className={activeNav === "#testimonials" ? "active" : ""}
+      >
+        {" "}
+        <BsChatRightQuote />{" "}
       </a>
       <a
         href="#contact"
