@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e72a7a7d.css",
-    "main.js": "/static/js/main.63abdee4.js",
+    "main.css": "/static/css/main.c537ed18.css",
+    "main.js": "/static/js/main.9519a034.js",
     "static/js/787.e99e9158.chunk.js": "/static/js/787.e99e9158.chunk.js",
     "static/media/header.png": "/static/media/header.4cbec52205b05407044c.png",
     "static/media/about.png": "/static/media/about.6ae31e82d90a7322e71e.png",
     "static/media/myfunflix.png": "/static/media/myfunflix.cd63f1898fc14993f4da.png",
     "static/media/meet.png": "/static/media/meet.0ca6850230c6fbaf8b24.png",
     "static/media/chatapp.png": "/static/media/chatapp.b18cbf26f6a57136faa6.png",
-    "static/media/cv.pdf": "/static/media/cv.e22ce83709096c827f3e.pdf",
+    "static/media/Tolu-Flosbach-CV.pdf": "/static/media/Tolu-Flosbach-CV.92f7d1957ac59a936360.pdf",
     "static/media/pokedex.png": "/static/media/pokedex.c3f2c5723232e85986b8.png",
     "static/media/transparentbg2b.png": "/static/media/transparentbg2b.cae087f7c1751207aae7.png",
     "index.html": "/index.html",
-    "main.e72a7a7d.css.map": "/static/css/main.e72a7a7d.css.map",
-    "main.63abdee4.js.map": "/static/js/main.63abdee4.js.map",
+    "main.c537ed18.css.map": "/static/css/main.c537ed18.css.map",
+    "main.9519a034.js.map": "/static/js/main.9519a034.js.map",
     "787.e99e9158.chunk.js.map": "/static/js/787.e99e9158.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e72a7a7d.css",
-    "static/js/main.63abdee4.js"
+    "static/css/main.c537ed18.css",
+    "static/js/main.9519a034.js"
   ]
 }
