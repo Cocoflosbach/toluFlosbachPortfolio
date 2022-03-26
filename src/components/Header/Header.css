@@ -28,15 +28,15 @@ header {
   position: absolute;
   left: 0;
   bottom: 3rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
-.header__socials::after {
+/* .header__socials::after {
   content: "";
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
-}
+} */
 
 /*================== IMG STYLING ================= */
 
@@ -64,7 +64,7 @@ header {
   bottom: 5rem;
   transform: rotate(90deg);
   font-weight: 300;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 /*======================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
