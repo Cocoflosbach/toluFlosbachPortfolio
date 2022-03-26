@@ -20,12 +20,12 @@
   left: calc(44%);
 }
 
-.footer__socials::after {
+/* .footer__socials::after {
   content: "";
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
-}
+} */
 
 .footer__container > small {
   font-size: 0.5rem;
