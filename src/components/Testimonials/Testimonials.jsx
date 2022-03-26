@@ -13,7 +13,7 @@ const Testimonials = () => {
             <h3>Joshua Mende </h3>
           </div>
           <p className="testimonial__text">
-            If you're looking for someone with heart and spirit, think of Coco!
+            If you're looking for someone with heart and spirit, think of Tolu!
             I cannot recommend someone more.
           </p>
         </article>
@@ -22,7 +22,7 @@ const Testimonials = () => {
             <h3>Matthew Olalekan </h3>
           </div>
           <p className="testimonial__text">
-            I have worked on many projects with Coco and I can say what;s most
+            I have worked on many projects with Tolu and I can say what's most
             outstanding is her passion for learning new things.
           </p>
         </article>
