@@ -14,7 +14,7 @@ const Portfolio = () => {
         "Meet is a progressive web app built using react that enables it's users to view upcoming events for a specific city for professional, networking or job search purposes. The app is built using a serverless function hosted by cloud provider, AWS.",
       image: MEET,
       github: "https://github.com/Cocoflosbach/meet",
-      demo: "https://cocoflosbach.github.io/meet/",
+      demo: "https://youtu.be/h8tpBNi4omU",
     },
     {
       id: 2,
@@ -41,7 +41,7 @@ const Portfolio = () => {
         "This App is a chat app built for mobile devices using React Native that provides its users with a customisable chat interface and options to share images and their locations with friends and family.",
       image: CHATAPP,
       github: "https://github.com/Cocoflosbach/chatApp",
-      demo: "",
+      demo: "https://youtu.be/Aw8w-G409Z8",
     },
   ];
 
